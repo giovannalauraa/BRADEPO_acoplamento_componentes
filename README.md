@@ -1,6 +1,5 @@
 ## 📚 Acoplamento dos componentes feitos na disciplina: BRADEPO
 
-
 Componentes disponíveis no repositório central do maven
 
 Book component:
