@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.github.giovannalauraa</groupId>
-    <artifactId>book-component</artifactId>
+    <artifactId>BRADEPO_acoplamento_componentes</artifactId>
     <version>1.0.1</version>
     <packaging>jar</packaging>
 
@@ -14,9 +14,9 @@
         <maven.compiler.target>17</maven.compiler.target>
     </properties>
 
-    <name>io.github.giovannalauraa.book_component</name>
+    <name>io.github.giovannalauraa.BRADEPO_acoplamento_componentes</name>
     <description>Componente Java Beyond para gerenciamento de livros</description>
-    <url>https://github.com/giovannalauraa/book_component</url>
+    <url>https://github.com/giovannalauraa/BRADEPO_acoplamento_componentes</url>
 
     <licenses>
         <license>
@@ -34,9 +34,9 @@
     </developers>
 
     <scm>
-       <url>https://github.com/giovannalauraa/book_component</url>
-        <connection>scm:git:git://github.com/giovannalauraa/book_component.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com/giovannalauraa/book_component.git</developerConnection>
+       <url>https://github.com/giovannalauraa/BRADEPO_acoplamento_componentes</url>
+        <connection>scm:git:git://github.com/giovannalauraa/BRADEPO_acoplamento_componentes.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/giovannalauraa/BRADEPO_acoplamento_componentes.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
