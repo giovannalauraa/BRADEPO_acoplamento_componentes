@@ -10,17 +10,14 @@ public class AuthComponentInterface extends AuthenticationConcreteOutbox impleme
     }
 
     public void initialize() {
-        // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'initialize'");
     }
 
     public void connect(String string, Object object) {
-        // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'connect'");
     }
 
     public void disconnect(String string) {
-        // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'disconnect'");
     }
     
