@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.github.giovannalauraa</groupId>
@@ -27,14 +27,14 @@
     </licenses>
 
     <developers>
-         <developer>
+        <developer>
             <id>giovannalauraa</id>
             <name>Giovanna Laura</name>
         </developer>
     </developers>
 
     <scm>
-       <url>https://github.com/giovannalauraa/BRADEPO_acoplamento_componentes</url>
+        <url>https://github.com/giovannalauraa/BRADEPO_acoplamento_componentes</url>
         <connection>scm:git:git://github.com/giovannalauraa/BRADEPO_acoplamento_componentes.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/giovannalauraa/BRADEPO_acoplamento_componentes.git</developerConnection>
         <tag>HEAD</tag>
@@ -42,10 +42,10 @@
 
     <dependencies>
         <dependency>
-                <groupId>io.github.lifveras</groupId>
-                <artifactId>bradeco_cupomfiscal</artifactId>
-                <version>1.0.0</version>
-            </dependency>
+            <groupId>io.github.lifveras</groupId>
+            <artifactId>bradeco_cupomfiscal</artifactId>
+            <version>1.0.0</version>
+        </dependency>
         <dependency>
             <groupId>io.github.soaressc</groupId>
             <artifactId>BRADEPO-cart-component</artifactId>
@@ -55,8 +55,9 @@
         <dependency>
             <groupId>io.github.anaangelieri</groupId>
             <artifactId>userAuthComponent</artifactId>
-            <version>1.0.0</version>
+            <version>2.0.0</version>
         </dependency>
+
 
         <dependency>
             <groupId>io.github.giovannalauraa</groupId>
